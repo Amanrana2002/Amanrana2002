@@ -1,6 +1,12 @@
 # 💫 About Me:
 I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, while understanding and implementing the fundamentals of computer engineering. I enjoy facing challenges and to learn the skills and techniques used in the computer science field and become a resourceful asset for this industry.<br><br>
 
+- 🌱 I’m currently learning Competitive Coding and DSA
+- 👯 I’m looking to collaborate on exciting projects
+- 📫 How to reach me: <a href ="https://www.linkedin.com/in/aman-rana-3a24801b0/">Linkedin</a>
+- 😄 Pronouns: He/Him
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aman-rana-3a24801b0/) 
