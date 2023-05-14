@@ -28,4 +28,4 @@ I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, whil
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Amanrana2002&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amanrana2002&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanrana2002&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<td><img src="https://github-readme-stats.vercel.app/api?username=Lokesh-Rathore&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
